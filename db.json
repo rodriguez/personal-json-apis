@@ -1,20 +1,20 @@
 {
-  options: [
+  "options": [
     {
-      label: 'All Billing Entities',
-      value: 'all'
+      "label": "All Billing Entities",
+      "value": "all"
     },
     {
-      label: '000 - Gimli',
-      value: 'gimli'
+      label: "000 - Gimli",
+      value: "gimli"
     },
     {
-      label: '111 - Lego',
-      value: 'lego'
+      label: "111 - Lego",
+      value: "lego"
     },
     {
-      label: '222 - Meow Meow',
-      value: 'meow'
+      label: "222 - Meow Meow",
+      value: "meow"
     }
   ]
 }
